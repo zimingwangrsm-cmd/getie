@@ -1,0 +1,30 @@
+.env
+data/
+__pycache__/
+screenshots/
+test-results/
+*.log
+.venv-ml/
+wheelhouse/
+datasets/
+artifacts/
+
+# Office rendering previews are reproducible, not product assets.
+presentations/product-pitch/.render-*/
+presentations/product-pitch/.render-*.pdf
+presentations/product-pitch/.render-*.json
+presentations/product-pitch/render-result.json
+
+# Atomic verified image extraction staging must never be committed.
+public/assets/qilin/.restore-*/
+
+presentations/product-pitch/.render-*.png
+
+# Public distribution staging and generated manifests.
+dist/
+MANIFEST.json
+SHA256SUMS
+
+# Local third-party corpus (separately authorized)
+public/assets/qilin/
+model_artifacts/insight-examples.json

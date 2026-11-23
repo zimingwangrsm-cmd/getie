@@ -1,0 +1,15 @@
+.git
+.env
+.env.*
+!.env.example
+data/
+datasets/
+artifacts/
+wheelhouse/
+.venv*/
+__pycache__/
+*.log
+screenshots/
+test-results/
+public/assets/payment-alipay.png
+presentations/product-pitch/.render-*/

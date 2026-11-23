@@ -1,0 +1,3 @@
+name = "个贴"
+start = "python3 server.py"
+health = "/api/health"
