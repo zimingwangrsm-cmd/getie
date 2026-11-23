@@ -1,6 +1,8 @@
 # 个贴 GeTie
 **个性不止一贴。** 面向持续运营小红书和抖音的个人创作者与小团队。使用同一份素材分别创作两平台的图文，确认后同步共同事实，并用评论与发布反馈策划后续内容。
 
+[在线体验「个贴」](https://resonance-studio-0qqk6t.fleet.aig.rest/?asteam_share=6721) · 分享码 **6721**
+
 [产品终稿 PPT](presentations/product-pitch/个贴final.pptx) · [配套宣讲 PDF](presentations/product-pitch/个贴_产品宣讲.pdf)
 
 ## 本地运行
